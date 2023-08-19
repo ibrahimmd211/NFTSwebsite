@@ -1,0 +1,23 @@
+.topfold{
+    height: 92vh;
+    overflow: hidden;
+}
+
+
+.tf.left{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-right: 48px;
+}
+
+.tf-heading{
+    font-size: 72px;
+    font-family: 600;
+    line-height: 72px;
+}
+
+.tf-description{
+    font-size: 20px;
+    margin:24px 0px ;
+}
